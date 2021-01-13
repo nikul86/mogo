@@ -1196,7 +1196,7 @@ hr {
 	}
 	.services_item {
 		width: 100%;
-		min-width: 400px;
+		max-width: 550px;
 		padding-left: 55px;
 		padding-right: 0;
 	}
