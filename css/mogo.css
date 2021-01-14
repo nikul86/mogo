@@ -37,7 +37,7 @@ hr {
 	height: 100vh;
 	min-height: 820px;
 	position: relative;
-	background: url('../img/intro.jpg')center
+	background: url('../img/intro.webp')center
 	no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
